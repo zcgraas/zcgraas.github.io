@@ -73,6 +73,9 @@ let resumeData = {
         },
         {
             'skillname':'python'
+        },
+        {
+            'skillname':'C'
         }
     ],
     'portfolio':[
