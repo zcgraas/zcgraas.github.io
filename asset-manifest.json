@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.25b75f80.chunk.css",
+    "main.css": "/static/css/main.abe458bd.chunk.css",
     "main.js": "/static/js/main.5d641a84.chunk.js",
     "main.js.map": "/static/js/main.5d641a84.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.65622183.js",
@@ -10,7 +10,7 @@
     "static/js/3.c39314ee.chunk.js": "/static/js/3.c39314ee.chunk.js",
     "static/js/3.c39314ee.chunk.js.map": "/static/js/3.c39314ee.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.25b75f80.chunk.css.map": "/static/css/main.25b75f80.chunk.css.map",
+    "static/css/main.abe458bd.chunk.css.map": "/static/css/main.abe458bd.chunk.css.map",
     "static/js/2.945f230f.chunk.js.LICENSE.txt": "/static/js/2.945f230f.chunk.js.LICENSE.txt",
     "static/js/main.5d641a84.chunk.js.LICENSE.txt": "/static/js/main.5d641a84.chunk.js.LICENSE.txt",
     "static/media/fonts.css": "/static/media/librebaskerville-regular-webfont.c5950393.ttf",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.65622183.js",
     "static/js/2.945f230f.chunk.js",
-    "static/css/main.25b75f80.chunk.css",
+    "static/css/main.abe458bd.chunk.css",
     "static/js/main.5d641a84.chunk.js"
   ]
 }
