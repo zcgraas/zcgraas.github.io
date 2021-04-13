@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.abe458bd.chunk.css",
-    "main.js": "/static/js/main.6a4ab8d0.chunk.js",
-    "main.js.map": "/static/js/main.6a4ab8d0.chunk.js.map",
+    "main.js": "/static/js/main.0095d5f3.chunk.js",
+    "main.js.map": "/static/js/main.0095d5f3.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.65622183.js",
     "runtime-main.js.map": "/static/js/runtime-main.65622183.js.map",
     "static/js/2.945f230f.chunk.js": "/static/js/2.945f230f.chunk.js",
@@ -12,7 +12,7 @@
     "index.html": "/index.html",
     "static/css/main.abe458bd.chunk.css.map": "/static/css/main.abe458bd.chunk.css.map",
     "static/js/2.945f230f.chunk.js.LICENSE.txt": "/static/js/2.945f230f.chunk.js.LICENSE.txt",
-    "static/js/main.6a4ab8d0.chunk.js.LICENSE.txt": "/static/js/main.6a4ab8d0.chunk.js.LICENSE.txt",
+    "static/js/main.0095d5f3.chunk.js.LICENSE.txt": "/static/js/main.0095d5f3.chunk.js.LICENSE.txt",
     "static/media/fonts.css": "/static/media/librebaskerville-regular-webfont.c5950393.ttf",
     "static/media/default.css": "/static/media/fontello.e7b9f57f.eot",
     "static/media/layout.css": "/static/media/testimonials-bg.ed8cf87a.jpg"
@@ -21,6 +21,6 @@
     "static/js/runtime-main.65622183.js",
     "static/js/2.945f230f.chunk.js",
     "static/css/main.abe458bd.chunk.css",
-    "static/js/main.6a4ab8d0.chunk.js"
+    "static/js/main.0095d5f3.chunk.js"
   ]
 }
