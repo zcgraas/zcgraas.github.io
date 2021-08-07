@@ -1,10 +1,13 @@
+
+
 let resumeData = {
-    "imagebaseurl":"https://ivy555.github.io",
-    'name':"Zack",
-    'role' : "Front End Developer",
+    "imagebaseurl":"https://github.com/zcgraas",
+    'firstName':"Zack",
+    'lastName':"Graas",
+    'role' : "aspiring full-stack developer",
     "linkedinId": "https://www.linkedin.com/in/zackarygraas/",
     "skypeid" : "skype id",
-    "roleDescription":"I love to create web applications and learn new technologies along the way!",
+    "roleDescription":"I love to create applications that align with my passions outside of work!",
     "socialLinks":[
         {
             "name":"linkedin",
@@ -24,7 +27,7 @@ let resumeData = {
     ],
     'aboutMe':'I am currently a student at the University of Louisville pursing my degree in Computer Information Systems with a concentration on Web Development and Cybersecurity. In my free time I enjoy wacthing soccer, playing video games, and hanging out with friends!',
     'address': 'Louisville, Kentucky',
-    'website': 'zcgraas.github.io',
+    'website': 'zcgraas@gmail.com',
     'education':[
         {
             'UniversityName':'University of Louisville',
@@ -35,6 +38,37 @@ let resumeData = {
         }
     ],
     'work':[
+        {
+            'CompanyName':'Appriss',
+            'specialization': 'Software Engineering Intern',
+            'MonthOfStarting': 'July',
+            'YearOfStarting': '2021',
+            'MonthOfLeaving':'Current',
+            'YearOfLeaving':'Employer',
+            'Achievements':['Responsible for answering phone calls and providing relevant information.', 'Responsible for screening and documenting facility visitors',
+            'Responsible for documenting and facilitating changes to resident cash accounts totalling $200 daily.', 'Assist nursing and office staff with paperwork processing and filing.']
+        },
+        {
+            'CompanyName':'Steel Technologies',
+            'specialization': 'IT Intern',
+            'MonthOfStarting': 'May',
+            'YearOfStarting': '2021',
+            'MonthOfLeaving':'July',
+            'YearOfLeaving':'2021',
+            'Achievements':['Responsible for answering phone calls and providing relevant information.', 'Responsible for screening and documenting facility visitors',
+            'Responsible for documenting and facilitating changes to resident cash accounts totalling $200 daily.', 'Assist nursing and office staff with paperwork processing and filing.']
+        },
+        {
+            'CompanyName':'Masonic Homes of Louisville',
+            'specialization': 'Concierge',
+            'MonthOfStarting': 'January',
+            'YearOfStarting': '2021',
+            'MonthOfLeaving':'May',
+            'YearOfLeaving':'2021',
+            'Achievements':['Responsible for answering phone calls and providing relevant information.', 'Responsible for screening and documenting facility visitors',
+            'Responsible for documenting and facilitating changes to resident cash accounts totalling $200 daily.', 'Assist nursing and office staff with paperwork processing and filing.']
+        },
+        
         {
             'CompanyName':'Martins BBQ Joint',
             'specialization': 'Server',
@@ -66,9 +100,6 @@ let resumeData = {
             'skillname':'HTML5'
         },
         {
-            'skillname':'React'
-        },
-        {
             'skillname':'CSS'
         },
         {
@@ -80,10 +111,28 @@ let resumeData = {
     ],
     'portfolio':[
         {
-            'name':'Book Database',
-            'description':'This web app allows users to input a books title, length, and publishing date. This info is stored using Firebase as a backend and is available at the users request.',
-            'imgurl':'images/portfolio/phone.jpg',
-            'link': ''
+            'name':'Netflix Inspired UI',
+            'description':'This web app features a Netflix inspired UI. It displays movie selections from different categories and presents relevant information! It was built in React with the TMDB api and Firebase as the backend.',
+            'imgurl':'https://i.pinimg.com/originals/88/c3/a3/88c3a34ef6f9e0e0c0921053240e8c7a.jpg',
+            "url": "https://github.com/zcgraas/similar-netflix"
+        },
+        {
+            'name':'Systems Analysis and Design',
+            'description':'This is a collection of documents that features technical writings, use-case diagrams, and ERD`s that was apart of my coursework for CIS 320. This work was done for Wilderness Louisville, a local non-profit focused on protecting the Jefferson Memorial Forest.',
+            'imgurl':'https://t2informatik.de/en/wp-content/uploads/sites/2/2020/03/use-case-diagram-example.jpg',
+            "url": "https://github.com/zcgraas/CIS-320"
+        },
+        {
+            'name':'Management of Information Systems',
+            'description':'This is a collection of case analysis papers. These case analysis`s were performed on selected cases provided by the Harvard School of Business.',
+            'imgurl':'https://peachyessay.com/wp-content/uploads/2019/10/Case-Studies.jpg',
+            "url": "https://github.com/zcgraas/CIS-410"
+        },
+        {
+            'name':'Basic Store Theme',
+            'description':'This is a work in progress application that utilizes React.js and React-Bootstrap. It is a custom built `default` theme for an ecommerce store.',
+            'imgurl':'https://cms-assets.tutsplus.com/cdn-cgi/image/width=850/uploads/users/1809/posts/34783/image/digital-fashion-shopping-experience-setyono-dwi-utomo.png',
+            "url": "https://github.com/zcgraas/basic-store"
         }
     ]
 }

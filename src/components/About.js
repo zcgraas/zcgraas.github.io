@@ -6,7 +6,7 @@ import '../css/magnific-popup.css';
 import '../css/media-queries.css';
 import '../css/fonts.css';
 import '../js/init';
-import '../images/profile-pic.jpg';
+import img from '../images/profile-pic.jpg';
 
 class About extends Component{
     render() {
@@ -16,7 +16,7 @@ class About extends Component{
             <section id="about">
                 <div className="row">
                     <div className="three columns">
-                        <img className="profile-pic" src="https://media-exp1.licdn.com/dms/image/C4E03AQFIjlh4XU4iFQ/profile-displayphoto-shrink_200_200/0/1574214004850?e=1621468800&v=beta&t=YGYYIuO7kimufirKku-jz_rOljcRTXywtnl_bNN5vFg" alt=""/>
+                        <img className="profile-pic" src={img} alt=""/>
                     </div>
                     <div className="nine columns main-col">
                         <h2>About Me</h2>
@@ -26,7 +26,7 @@ class About extends Component{
                         <div className="columns contact-details">
                             <h2>Contact Details</h2>
                             <p className="address">
-                                <span>{resumeData.name}</span>
+                                <span>{resumeData.firstName}{" "}{resumeData.lastName}</span>
                                 <br></br>
                                 <span>
                                     {resumeData.address}

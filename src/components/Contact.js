@@ -24,11 +24,11 @@ class Contact extends Component {
                         <div className="widget">
                             <h4>
                                 <i className="fa fa-linkedin"> </i>
-                                : @zackarygraas 
+                               {' '} : @zackarygraas 
                             </h4>
                             <h4>
                                 <i className="fa fa-envelope"> </i>
-                                : zackary.graas@louisville.edu
+                               {' '} : zcgraas@gmail.com
                             </h4>
                         </div>
                     </aside>
