@@ -39,14 +39,16 @@ let resumeData = {
     ],
     'work':[
         {
-            'CompanyName':'Appriss',
+            'CompanyName':'Appriss Inc.',
             'specialization': 'Software Engineering Intern',
             'MonthOfStarting': 'July',
             'YearOfStarting': '2021',
             'MonthOfLeaving':'Current',
             'YearOfLeaving':'Employer',
-            'Achievements':['Responsible for answering phone calls and providing relevant information.', 'Responsible for screening and documenting facility visitors',
-            'Responsible for documenting and facilitating changes to resident cash accounts totalling $200 daily.', 'Assist nursing and office staff with paperwork processing and filing.']
+            'Achievements':['Work on products for Appriss Retail Division (The Retail Equation).',
+            'Contributed features to "Verify" application that has saved retailers over $1.1 billion and is the most widely used return optimization tool.',
+            'Development on applications that ensure data delivery to and from the largest known consumer transaction database in the world.',
+            ]
         },
         {
             'CompanyName':'Steel Technologies',
@@ -55,8 +57,10 @@ let resumeData = {
             'YearOfStarting': '2021',
             'MonthOfLeaving':'July',
             'YearOfLeaving':'2021',
-            'Achievements':['Responsible for answering phone calls and providing relevant information.', 'Responsible for screening and documenting facility visitors',
-            'Responsible for documenting and facilitating changes to resident cash accounts totalling $200 daily.', 'Assist nursing and office staff with paperwork processing and filing.']
+            'Achievements':['Worked with the Desktop Support team to ensure IT infrastructure security and efficiency.',
+            'Contributed to corporate device "refresh", deploying new laptops to employees while maintaining data integrity and security.',
+            'Developed company intranet portal on the Service-Now platform.'
+            ]
         },
         {
             'CompanyName':'Masonic Homes of Louisville',
@@ -65,8 +69,10 @@ let resumeData = {
             'YearOfStarting': '2021',
             'MonthOfLeaving':'May',
             'YearOfLeaving':'2021',
-            'Achievements':['Responsible for answering phone calls and providing relevant information.', 'Responsible for screening and documenting facility visitors',
-            'Responsible for documenting and facilitating changes to resident cash accounts totalling $200 daily.', 'Assist nursing and office staff with paperwork processing and filing.']
+            'Achievements':['Responsible for answering phone calls and providing relevant information.',
+             'Responsible for screening and documenting facility visitors',
+            'Responsible for documenting and facilitating changes to resident cash accounts totalling $200 daily.', 
+            ]
         },
         
         {
@@ -77,7 +83,7 @@ let resumeData = {
             'MonthOfLeaving':'December',
             'YearOfLeaving':'2020',
             'Achievements':['Provided customers with quality service and an enjoyable dining experience.', 
-            'Contributed an estimated $700-$2,000 in sales per shift.', 'Responsible for multiple cash drawers containing $600-$900 each shift.', 
+            'Responsible for multiple cash drawers containing $600-$900 each shift.', 
             'Responsible for training new employees on policy, procedure, and service both in restaurant and on catering.', 
             'Managed catering organization and set up to ensure food quality and experience for the customer. ']
         },
