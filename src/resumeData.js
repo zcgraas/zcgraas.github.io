@@ -4,10 +4,10 @@ let resumeData = {
     "imagebaseurl":"https://github.com/zcgraas",
     'firstName':"Zack",
     'lastName':"Graas",
-    'role' : "aspiring full-stack developer",
+    'role' : "full-stack developer",
     "linkedinId": "https://www.linkedin.com/in/zackarygraas/",
     "skypeid" : "skype id",
-    "roleDescription":"I love to create applications that align with my passions outside of work!",
+    "roleDescription":"I started out with a focus on web application development and have transitioned into a full-stack role gaining invaluable knowledge. I have experience working with entriprise level applications on the front-end and back-end, creating user-friend interfaces that display data fetched from custom endpoints that integrate with database systems.",
     "socialLinks":[
         {
             "name":"linkedin",
